@@ -1,2 +1,2 @@
 # Q-App
-A queue management app made using android studio 
+A queue management app made using android studio.
